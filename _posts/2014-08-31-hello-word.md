@@ -1,6 +1,6 @@
 ---
 title: About P-ful
-featured: images/pic03.jpg
+featured: images/14318847455_c9c13a86ae_o.jpg
 layout: post
 ---
 <p>
